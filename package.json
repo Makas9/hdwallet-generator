@@ -1,0 +1,24 @@
+{
+  "name": "hdwallet-generator",
+  "version": "1.0.0",
+  "description": "Generates HD wallets for selected cryptocurrencies",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "generate",
+    "wallet"
+  ],
+  "author": "Makas9",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^3.0.2",
+    "ethereumjs-util": "^6.1.0",
+    "stellar-hd-wallet": "0.0.10"
+  }
+}
