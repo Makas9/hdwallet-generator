@@ -1,6 +1,6 @@
 {
   "name": "hdwallet-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generates HD wallets for selected cryptocurrencies",
   "main": "index.js",
   "directories": {
@@ -20,5 +20,14 @@
     "bip39": "^3.0.2",
     "ethereumjs-util": "^6.1.0",
     "stellar-hd-wallet": "0.0.10"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makas9/hdwallet-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Makas9/hdwallet-generator/issues"
+  },
+  "homepage": "https://github.com/Makas9/hdwallet-generator#readme"
 }
