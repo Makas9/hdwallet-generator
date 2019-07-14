@@ -1,6 +1,6 @@
 {
   "name": "hdwallet-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generates HD wallets for selected cryptocurrencies",
   "main": "index.js",
   "directories": {
